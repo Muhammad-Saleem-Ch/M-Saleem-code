@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Saleem-Ch](https://github.com/Muhammad-Saleem-Ch/Flutter-Portfolio)
 
-- 💬 Ask me about ** Java ,Web ,Javascript ,Kotlin **
+- 💬 Ask me about ** Java ,Web,Javascript , Kotlin **
 
 - 📫 How to reach me **muhammadsaleemchachar541@gmail.com**
 
@@ -39,7 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Saleem-Ch&show_icons=true&locale=en&layout=compact" alt="Muhammad-Saleem-Ch" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Saleem-Chc&show_icons=true&locale=en" alt="Muhammad-Saleem-Ch" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Saleem-Ch&" alt="Muhammad-Saleem-Ch" /></p>
 
