@@ -15,7 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammad-Saleem-Ch](https://github.com/Muhammad-Saleem-Ch/Flutter-Portfolio)
 
-- 💬 Ask me about ** Java ,Web,Javascript , Kotlin **
 
 - 📫 How to reach me **muhammadsaleemchachar541@gmail.com**
 
